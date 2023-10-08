@@ -1,0 +1,79 @@
+[
+    {
+        "Order ID": "ORD1",
+        "Product Name": "Steelseries Rival 600 ",
+        "Price": 5000,
+        "Discount": "10%",
+        "Price after Discount": 4500.0,
+        "Quantity": 2,
+        "Total Cost": 9000,
+        "Ordered By": "Viru Sahastrabudhhe",
+        "Delivering to": "Villa 26, Imperial College, New Delhi India"
+    },
+    {
+        "Order ID": "ORD2",
+        "Product Name": "K95",
+        "Price": 10000,
+        "Discount": "20%",
+        "Price after Discount": 8000.0,
+        "Quantity": 4,
+        "Total Cost": 32000,
+        "Ordered By": "Priya Kumar",
+        "Delivering to": "House no. 48, Bandra East, Mumbai India"
+    },
+    {
+        "Order ID": "ORD3",
+        "Product Name": "GEFORCE RTX 3070",
+        "Price": 70000,
+        "Discount": "30%",
+        "Price after Discount": 98000.0,
+        "Quantity": 2,
+        "Total Cost": 196000.0,
+        "Ordered By": "Viru Sahastrabudhhe",
+        "Delivering to": "Villa 25, Imperial College, New Delhi India"
+    },
+    {
+        "Order ID": "ORD4",
+        "Product Name": "GEFORCE RTX 3070",
+        "Price": 70000,
+        "Discount": "30%",
+        "Price after Discount": 98000.0,
+        "Quantity": 2,
+        "Total Cost": 196000.0,
+        "Ordered By": "Viru Sahastrabudhhe",
+        "Delivering to": "Villa 25, Imperial College, New Delhi India"
+    },
+    {
+        "Order ID": "ORD5",
+        "Product Name": "GEFORCE RTX 3070",
+        "Price": 70000,
+        "Discount": "30%",
+        "Price after Discount": 98000.0,
+        "Quantity": 2,
+        "Total Cost": 196000.0,
+        "Ordered By": "Viru Sahastrabudhhe",
+        "Delivering to": "Villa 25, Imperial College, New Delhi India"
+    },
+    {
+        "Order ID": "ORD6",
+        "Product Name": "GEFORCE RTX 3070",
+        "Price": 70000,
+        "Discount": "30%",
+        "Price after Discount": 98000.0,
+        "Quantity": 2,
+        "Total Cost": 196000.0,
+        "Ordered By": "Viru Sahastrabudhhe",
+        "Delivering to": "Villa 25, Imperial College, New Delhi India"
+    },
+    {
+        "Order ID": "ORD7",
+        "Product Name": "GEFORCE RTX 3070",
+        "Price": 70000,
+        "Discount": "30%",
+        "Price after Discount": 98000.0,
+        "Quantity": 2,
+        "Total Cost": 196000.0,
+        "Ordered By": "Viru Sahastrabudhhe",
+        "Delivering to": "Villa 25, Imperial College, New Delhi India"
+    }
+]
